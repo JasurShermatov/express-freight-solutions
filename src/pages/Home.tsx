@@ -109,7 +109,7 @@ const Home = () => {
                 <Link to="/contact">Get Free Quote</Link>
               </Button>
               <Button asChild variant="outline" size="lg" className="btn-hero text-lg px-8 py-6">
-                <Link to="/services">View Services</Link>
+                <Link to="/services" className="text-black">View Services</Link>
               </Button>
             </div>
           </div>
